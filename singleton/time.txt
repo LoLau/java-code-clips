@@ -1,0 +1,2 @@
+DoubleCheck time :68
+InnerStaticClass time :4
